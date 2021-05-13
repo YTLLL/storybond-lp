@@ -67,5 +67,19 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: sadasda
+    content: dasdasda
+    slug: ''
+  col_2:
+    headline: bbbb
+    content: bbbb
+    slug: ''
+  col_3:
+    headline: cccc
+    content: cccc
+    slug: ''
 
 ---

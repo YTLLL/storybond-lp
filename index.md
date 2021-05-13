@@ -20,7 +20,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2021/05/13/artboard-3.png"
 - template: content-feature
   block: feature-1

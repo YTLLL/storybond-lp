@@ -32,6 +32,7 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+  content2: xxxx
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -43,6 +44,7 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+  content2: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive

@@ -47,9 +47,9 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
-      format: markdown
+      format: html
   label: Content2
 - name: headline3
   type: textarea
@@ -65,9 +65,9 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
-      format: markdown
+      format: html
   label: content3
 - type: field_group
   name: media

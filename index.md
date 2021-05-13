@@ -27,9 +27,9 @@ page_sections:
   media_alignment: Left
   slug: projectinfo
   headline: "<strong>Project INFO</strong>"
-  content: 'Every day we meet and interact with many people but we seldomly develop
+  content: Every day we meet and interact with many people but we seldomly develop
     a deep connection with them.<br><br>How might people and their acquaintances know
-    more about each other so that they can form genuine friendships?<br> '
+    more about each other so that they can form genuine friendships?<br> &lt;br&gt;
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up

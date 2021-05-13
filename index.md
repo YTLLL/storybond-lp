@@ -6,7 +6,7 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: ''
+  - link: ubuild-jekyll/#responsive
     link_text: swap
   logo: ''
 - template: hero-banner-w-image

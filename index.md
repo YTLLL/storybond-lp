@@ -27,23 +27,23 @@ page_sections:
   media_alignment: Left
   slug: projectinfo
   headline: "<strong>Project INFO</strong>"
-  content: Every day we meet and interact with many people but we seldomly develop
+  content: 'Every day we meet and interact with many people but we seldomly develop
     a deep connection with them.<br><br>How might people and their acquaintances know
-    more about each other so that they can form genuine friendships?<br>
+    more about each other so that they can form genuine friendships?<br> '
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
   content2: "Everyone has a story, instead of silence, we wish it can be the bridge
-    to our heart.\n\nWe decided to build a place to share these stories.\n\nStoryBond
+    to our heart.\n \nWe decided to build a place to share these stories.\n \nStoryBond
     provides a place for you to express yourself in the form of story, and you can
-    better understand others through the story exchange. \n"
+    better understand others through the story exchange. \n "
   headline1: Challenge
   headline2: Outcome
   headline3: Impact
-  content3: "In this age of new media, the genuine story seems fade away.\n\nBut these
-    stories form bonding within each other and help us being understood. \n\nAnd it
-    has the power of turning an acquaintance to a genuine friend.\n\nWe hope you can
-    find the genuine fun of knowing your family, friend, and even yourself"
+  content3: "In this age of new media, the genuine story seems fade away.\n \nBut
+    these stories form bonding within each other and help us being understood. \n
+    \nAnd it has the power of turning an acquaintance to a genuine friend.\n \nWe
+    hope you can find the genuine fun of knowing your family, friend, and even yourself"
 - template: content-feature
   block: feature-1
   media_alignment: Right

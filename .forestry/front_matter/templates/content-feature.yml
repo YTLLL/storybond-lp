@@ -24,6 +24,15 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: content2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Content2
 - type: field_group
   name: media
   label: Featured Media

@@ -29,14 +29,14 @@ page_sections:
   headline: "<strong>Project INFO</strong>"
   content: 'Every day we meet and interact with many people but we seldomly develop
     a deep connection with them.<br><br>How might people and their acquaintances know
-    more about each other so that they can form genuine friendships?<br> '
+    more about each other so that they can form genuine friendships?<br><br> '
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
   content2: 'Everyone has a story, instead of silence, we wish it can be the bridge
     to our heart. We decided to build a place to share these stories. <br><br>StoryBond
     provides a place for you to express yourself in the form of story, and you can
-    better understand others through the story exchange.<br> '
+    better understand others through the story exchange.<br><br> '
   headline1: |2-
 
     Challenge

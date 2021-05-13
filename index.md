@@ -6,8 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: https://ytlll.github.io/storybond-lp/#swap
-    link_text: swap
+  - link: https://ytlll.github.io/storybond-lp/#projectinfo
+    link_text: Project INFO
   logo: ''
 - template: hero-banner-w-image
   block: hero-2

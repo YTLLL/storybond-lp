@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: https://ytlll.github.io/storybond-lp/#projectinfo
     link_text: Project INFO
-  logo: ''
+  logo: "/uploads/2021/05/12/3-04-1-1.png"
 - template: hero-banner-w-image
   block: hero-2
   slug: features

@@ -15,7 +15,7 @@ page_sections:
   image:
     image: "/uploads/2021/05/13/phone-6.png"
     alt_text: Product Shot
-  background_image: "/uploads/2021/05/13/phone-6.png"
+  background_image: "/uploads/2021/05/13/phone-2.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left

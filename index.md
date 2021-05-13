@@ -6,7 +6,7 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: https://ytlll.github.io/storybond-lp/#responsive
+  - link: https://ytlll.github.io/storybond-lp/#swap
     link_text: swap
   logo: ''
 - template: hero-banner-w-image

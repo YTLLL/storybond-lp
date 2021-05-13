@@ -17,6 +17,15 @@ fields:
 - type: text
   label: slug
   name: slug
+- name: headline1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: headline1
 - type: textarea
   name: content
   label: Content
@@ -24,6 +33,15 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: headline2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Headline2
 - name: content2
   type: textarea
   default: ''
@@ -33,6 +51,24 @@ fields:
     schema:
       format: markdown
   label: Content2
+- name: headline3
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: headline3
+- name: content3
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content3
 - type: field_group
   name: media
   label: Featured Media

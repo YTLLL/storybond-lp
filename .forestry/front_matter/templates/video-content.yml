@@ -1,4 +1,12 @@
 ---
 label: video-content
 hide_body: false
-fields: []
+fields:
+- name: block
+  type: blocks
+  label: block
+  template_types: []
+  config:
+    min: 
+    max: 
+  hidden: true

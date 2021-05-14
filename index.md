@@ -125,7 +125,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/12/3-04-1-1.png"
-  col_3: xxxx<img src="/uploads/2021/05/12/3-04-1-1.png">
+  col_3: <img src="/uploads/2021/05/12/3-04-1-1.png">xxxx
   col_2: ''
   col_4: ''
 

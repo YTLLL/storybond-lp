@@ -72,7 +72,7 @@ page_sections:
     create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/05/14/group-13.png"
+  image: "/uploads/2021/05/14/group-13-1.png"
   caption: All Available Blocks
   slug: blocks
 - template: detail-content

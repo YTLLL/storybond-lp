@@ -3,10 +3,9 @@ label: video-content
 hide_body: false
 fields:
 - name: block
-  type: blocks
-  label: block
-  template_types: []
+  type: text
   config:
-    min: 
-    max: 
+    required: false
+  default: youtubePlayer
+  label: block
   hidden: true

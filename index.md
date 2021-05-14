@@ -122,13 +122,11 @@ page_sections:
     headline: cccc
     content: cccc
     slug: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2021/05/14/phone-11.png"
-    caption: ''
-  image_2:
-    image: "/uploads/2021/05/14/phone-14.png"
-    caption: ''
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/05/12/3-04-1-1.png"
+  col_3: xxxx<img src="/uploads/2021/05/12/3-04-1-1.png">
+  col_2: ''
+  col_4: ''
 
 ---

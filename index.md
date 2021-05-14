@@ -50,7 +50,7 @@ page_sections:
   content: Everyone has a story, instead of silence, we wish it can be the bridge
     to our heart. We decided to build a place to share these stories. <br><br>StoryBond
     provides a place for you to express yourself in the form of story, and you can
-    better understand others through the story exchange.<br>
+    better understand others through the story exchange.<br><br>
   media:
     image: "/uploads/2021/05/14/phone-14.png"
     alt_text: app main page

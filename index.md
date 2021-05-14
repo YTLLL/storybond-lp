@@ -53,7 +53,7 @@ page_sections:
     better understand others through the story exchange.<br>
   media:
     image: "/uploads/2021/05/14/phone-14.png"
-    alt_text: Customize Blocks
+    alt_text: app main page
   content2: In this age of new media, the genuine story seems to fade away. <br><br>But
     these stories form bonding within each other and help us be understood. And it
     has the power of turning an acquaintance into a genuine friend. <br><br>We hope

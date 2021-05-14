@@ -74,7 +74,7 @@ page_sections:
   headline3: ''
   content3: ''
   media:
-    image: {% include youtubePlayer.html id=page.youtubeId %}
+    image: ''
     alt_text: ''
 - template: 1-column-text
   block: one-column-1

@@ -33,19 +33,11 @@ page_sections:
   media:
     image: "/uploads/2021/05/14/phone-11.png"
     alt_text: open page Mock-Up
-  content2: 'Everyone has a story, instead of silence, we wish it can be the bridge
-    to our heart. We decided to build a place to share these stories. <br><br>StoryBond
-    provides a place for you to express yourself in the form of story, and you can
-    better understand others through the story exchange.<br><br> '
-  headline1: |2-
-
-    Challenge
-  headline2: Outcome
-  headline3: Impact
-  content3: 'In this age of new media, the genuine story seems to fade away. <br><br>But
-    these stories form bonding within each other and help us be understood. And it
-    has the power of turning an acquaintance into a genuine friend. <br><br>We hope
-    you can find the genuine fun of knowing your family, friend, and even yourself<br> '
+  content2: "<br><br>"
+  headline1: "\n"
+  headline2: Challenge
+  headline3: ''
+  content3: "<br>"
 - template: content-feature
   block: feature-1
   media_alignment: Right

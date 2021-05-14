@@ -10,6 +10,11 @@ fields:
 - type: text
   label: slug
   name: slug
+- name: headline
+  type: text
+  config:
+    required: false
+  label: headline
 - type: file
   name: image
   label: Image

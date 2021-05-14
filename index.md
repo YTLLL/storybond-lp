@@ -58,7 +58,7 @@ page_sections:
     provides a place for you to express yourself in the form of story, and you can
     better understand others through the story exchange.<br><br>
   media:
-    image: "/uploads/2021/05/14/phone-15.png"
+    image: "/uploads/2021/05/14/phone-16.png"
     alt_text: app main page
   content2: In this age of new media, the genuine story seems to fade away. <br><br>But
     these stories form bonding within each other and help us be understood. And it

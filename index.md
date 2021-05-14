@@ -62,20 +62,6 @@ page_sections:
   headline2: Impact
   headline3: ''
   content3: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: Demo Video
-  slug: ''
-  headline1: ''
-  content: '{{% youtube "$Rx8Y0bmhkeQ" %}}'
-  headline2: ''
-  content2: ''
-  headline3: ''
-  content3: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive

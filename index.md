@@ -68,7 +68,7 @@ page_sections:
   headline: Demo Video
   slug: ''
   headline1: ''
-  content: "{{% include youtubePlayer.html id=page.youtubeId %}}"
+  content: '{{% youtube "$VIDEO_ID" %}}'
   headline2: ''
   content2: ''
   headline3: ''

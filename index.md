@@ -6,12 +6,12 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: us
-    link_text: About Us
-  - link: https://ytlll.github.io/storybond-lp/#key
-    link_text: Key Features
   - link: https://ytlll.github.io/storybond-lp/#projectinfo
     link_text: Project INFO
+  - link: https://ytlll.github.io/storybond-lp/#key
+    link_text: Key Features
+  - link: us
+    link_text: About Us
   logo: "/uploads/2021/05/12/3-04-1-1.png"
 - template: hero-banner-w-image
   block: hero-2

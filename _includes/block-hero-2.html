@@ -2,6 +2,10 @@
 {% if section.background_image %}
 style="background-image: url('{{ section.background_image | relative_url }}')"
 {% endif %}>
+  --bg: #AADFFF;
+  --text: #111;
+  background-color: var(--bg);
+  color: var(--text);
   <div class="container">
     <div class="columns">
       <div class="column text">

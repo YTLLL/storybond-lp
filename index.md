@@ -27,17 +27,17 @@ page_sections:
   media_alignment: Left
   slug: projectinfo
   headline: "<strong>Project INFO</strong>"
-  content: 'A survey suggests that every one in five adults in America regularly or
+  content: A survey suggests that every one in five adults in America regularly or
     often feel lonely. <br><br>We are not physically lonely, we have school, work,
     party, family... We meet a lot of people throughout our lifetime, but we seldomly
     develop a deep connection with them.<br><br>Everyone has been around this world
     for a long time. These acquaintances around you has a past. Everyone is a book
-    filled with their own life stories.<br> '
+    filled with their own life stories.<br><br>
   media:
     image: "/uploads/2021/05/14/phone-11.png"
     alt_text: open page Mock-Up
   content2: How might people and their acquaintances know more about each other so
-    that they can form genuine friendships?<br><br>
+    that they can form genuine friendships?
   headline1: "\n"
   headline2: Challenge
   headline3: ''

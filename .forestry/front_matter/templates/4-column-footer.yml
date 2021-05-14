@@ -10,6 +10,15 @@ fields:
 - type: file
   label: Column 1 Image
   name: image
+- name: headline1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: headline1
 - type: textarea
   name: col_2
   label: Column 2 Content
@@ -17,6 +26,15 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: headline2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: headline2
 - type: textarea
   name: col_3
   label: Column 3 Content
@@ -24,6 +42,15 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: headline3
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: headline3
 - type: textarea
   name: col_4
   label: Column 4 Content

@@ -72,8 +72,8 @@ page_sections:
   block: media-1
   image: "/uploads/2021/05/14/group-13-1.png"
   caption: All Available Blocks
-  slug: blocks
-  headline: key
+  slug: key
+  headline: Key Features
 - template: video-content
   block: youtubePlayer
   media:

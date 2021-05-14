@@ -2,16 +2,26 @@
   <div class="container">
     <div class="columns">
       <div class="column">
-        <img src="{{ section.image }}" width="24" height="auto" alt="Logo">
+        <img src="{{ section.image }}" width="40" height="auto" alt="Logo">
       </div>
       <div class="column">
+        <h3>{{ section.headline1 }}</h3>
         {{ section.col_2 }}
       </div>
       <div class="column">
+          <h3>{{ section.headline2 }}</h3>
           {{ section.col_3 }}
       </div>
       <div class="column">
+          <h3>{{ section.headline3 }}</h3>
           {{ section.col_4 }}
+      </div>
+      <div class="column">
+         <ul>
+          {% for image in page.gallery %}
+            <li><img src="{{ section.multiple_image | relative_url }}"></li>
+          {% endfor %}
+         </ul>
       </div>
     </div>
   </div>

@@ -68,7 +68,8 @@ page_sections:
   headline: Demo Video
   slug: ''
   headline1: ''
-  content: ''
+  content: "--- youtubeId: Rx8Y0bmhkeQ --- {% include youtubePlayer.html id=page.youtubeId
+    %}"
   headline2: ''
   content2: ''
   headline3: ''

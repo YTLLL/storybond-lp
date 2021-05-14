@@ -75,6 +75,7 @@ page_sections:
   image: "/uploads/2021/05/14/group-13-1.png"
   caption: All Available Blocks
   slug: blocks
+  headline: ''
 - template: video-content
   block: youtubePlayer
   media:
@@ -88,6 +89,7 @@ page_sections:
   image: "/uploads/2021/05/14/group-12-2.png"
   slug: ''
   caption: ''
+  headline: About Us
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

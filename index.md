@@ -98,28 +98,19 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: sadasda
-    content: dasdasda
-    slug: ''
-  col_2:
-    headline: bbbb
-    content: bbbb
-    slug: ''
-  col_3:
-    headline: cccc
-    content: cccc
-    slug: ''
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/12/3-04-1-1.png"
-  col_3: <img src="/uploads/2021/05/12/3-04-1-1.png">xxxx
+  col_3: xxxx
   col_2: ''
   col_4: ''
+  headline1: ''
+  headline2: ''
+  headline3: ''
+  multiple_image:
+  - "/uploads/2021/05/14/appstore.png"
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ in Canada
 
 ---

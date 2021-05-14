@@ -108,6 +108,8 @@ page_sections:
   headline2: ''
   headline3: ''
   multiple_image:
+  - "/uploads/2021/05/12/3-04-1-1.png"
+  - "/uploads/2021/05/14/ischoolsecondary_rgb_purple.png"
   - "/uploads/2021/05/14/appstore.png"
 - template: simple-footer
   block: footer-1

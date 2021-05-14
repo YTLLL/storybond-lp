@@ -27,3 +27,7 @@ fields:
     schema:
       format: html
   label: content
+- name: media
+  type: field_group
+  config: {}
+  label: media

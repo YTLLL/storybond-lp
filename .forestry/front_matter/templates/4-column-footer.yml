@@ -58,3 +58,7 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: multiple_image
+  type: image_gallery
+  config: {}
+  label: multiple image

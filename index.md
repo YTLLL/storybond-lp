@@ -70,7 +70,7 @@ page_sections:
   content3: ''
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2021/05/14/group-13-1.png"
+  image: "/uploads/2021/05/14/group-13-2.png"
   caption: All Available Blocks
   slug: key
   headline: Key Features

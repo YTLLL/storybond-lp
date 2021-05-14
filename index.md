@@ -93,7 +93,7 @@ page_sections:
   block: youtubePlayer
   media:
     alt_text: Rx8Y0bmhkeQ
-  headline: Demo Video
+  headline: "<strong>Demo Video</strong>"
   content: Our video demonstrates more project details of research and development
     by our team members.
   media_alignment: Left

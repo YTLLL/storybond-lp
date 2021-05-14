@@ -101,11 +101,12 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/12/3-04-1-1.png"
-  col_3: "]"
+  col_3: ''
   col_2: This Capstone project was developed by team FistBump from the University
     of Washington Information School for Winter/Spring 2021. The current status for
     this project is Closed, which we will not have further updates.
-  col_4: ''
+  col_4: "<em>Here we would like to give our sincere thanks to all the wonderful school
+    faculties, friends, and classmates who offer their great help to our project!</em>"
   headline1: Project Status
   headline2: Download Our App!
   headline3: ''

@@ -37,17 +37,13 @@ fields:
       required: false
     label: alt text
   label: media
-- name: media_alignment
-  type: select
-  default: Right
+ - type: select
+  name: media_alignment
   config:
-    required: false
+    source:
+      type: simple
     options:
     - Left
     - Right
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: media_alignment
+  label: Media Alignment
+  default: Right

@@ -79,7 +79,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/14/group-12-2.png"
-  slug: ''
+  slug: About Us
   caption: ''
   headline: About Us
 - template: 4-column-footer

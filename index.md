@@ -1,4 +1,7 @@
 ---
+youtubeId: Rx8Y0bmhkeQ
+---
+---
 layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
@@ -74,6 +77,11 @@ page_sections:
   block: media-1
   image: "/uploads/2021/05/14/group-13-1.png"
   caption: All Available Blocks
+  slug: blocks
+- template: full-width-media-element
+  block: media-1
+  {% include youtubePlayer.html id=page.youtubeId %}
+  caption: Demo Video
   slug: blocks
 - template: detail-content
   block: text-1

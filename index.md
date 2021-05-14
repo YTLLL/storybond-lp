@@ -83,6 +83,11 @@ page_sections:
   content: Our video demonstrates more project details of research and development
     by our team members.
   media_alignment: Left
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2021/05/14/group-12-2.png"
+  slug: ''
+  caption: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

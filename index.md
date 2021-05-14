@@ -6,8 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: ''
-    link_text: ''
+  - link: us
+    link_text: About Us
   - link: https://ytlll.github.io/storybond-lp/#key
     link_text: Key Features
   - link: https://ytlll.github.io/storybond-lp/#projectinfo

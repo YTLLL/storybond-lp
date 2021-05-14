@@ -1,6 +1,6 @@
 <section id="{{ section.slug | slugify }}" class="block block-media-1">
   <div class="container">
-    <h1>{{ section.headline }}</h1>
+    <h2>{{ section.headline }}</h2>
     <figure>
       <img src="{{ section.image | relative_url }}" alt="{{ section.caption }}" loading="lazy">
       {% if section.caption %}

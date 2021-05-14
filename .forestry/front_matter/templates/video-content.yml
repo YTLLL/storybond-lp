@@ -30,4 +30,10 @@ fields:
 - name: media
   type: field_group
   config: {}
+  fields:
+  - name: alt_text
+    type: text
+    config:
+      required: false
+    label: alt text
   label: media

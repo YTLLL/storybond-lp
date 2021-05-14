@@ -96,6 +96,7 @@ page_sections:
   headline: Demo Video
   content: Our video demonstrates more project details of research and development
     by our team members.
+  media_alignment: Right
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

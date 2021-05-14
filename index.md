@@ -52,14 +52,16 @@ page_sections:
   slug: customize
   headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
     edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  content: ''
   media:
     image: "/uploads/2021/05/14/phone-14.png"
     alt_text: Customize Blocks
-  content2: ''
-  headline1: ''
-  headline2: ''
+  content2: In this age of new media, the genuine story seems to fade away. <br><br>But
+    these stories form bonding within each other and help us be understood. And it
+    has the power of turning an acquaintance into a genuine friend. <br><br>We hope
+    you can find the genuine fun of knowing your family, friend, and even yourself
+  headline1: Outcome
+  headline2: Impact
   headline3: ''
   content3: ''
 - template: 1-column-text

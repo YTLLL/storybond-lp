@@ -35,6 +35,11 @@ fields:
     schema:
       format: html
   label: headline2
+- name: img1
+  type: file
+  config:
+    maxSize: 64
+  label: img1
 - type: textarea
   name: col_3
   label: Column 3 Content
@@ -51,6 +56,11 @@ fields:
     schema:
       format: html
   label: headline3
+- name: img2
+  type: file
+  config:
+    maxSize: 64
+  label: img2
 - type: textarea
   name: col_4
   label: Column 4 Content

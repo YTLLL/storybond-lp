@@ -75,20 +75,6 @@ page_sections:
   image: "/uploads/2021/05/14/group-13-1.png"
   caption: All Available Blocks
   slug: blocks
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: outcome
-  headline: ''
-  content: Everyone has a story, 
-  media:
-    image: {% include youtubePlayer.html id=page.youtubeId %}
-    alt_text: app main page
-  content2: ''
-  headline1: ''
-  headline2: ''
-  headline3: ''
-  content3: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

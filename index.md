@@ -89,6 +89,12 @@ page_sections:
   image: "/uploads/2021/05/14/group-13-1.png"
   caption: All Available Blocks
   slug: blocks
+- template: video-content
+  block: youtubePlayer
+  media:
+    alt_text: Rx8Y0bmhkeQ
+  headline: ''
+  content: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

@@ -19,7 +19,7 @@
       <div class="column">
          <ul>
           {% for image in page.uploads %}
-            <li><img src="{{ image | relative_url }}"></li>
+            <li><img src="{{ section.image | relative_url }}"></li>
           {% endfor %}
          </ul>
       </div>

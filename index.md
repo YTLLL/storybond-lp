@@ -27,7 +27,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2021/05/13/artboard-3.png"
+  background_image: "/uploads/2021/05/14/new-1.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left

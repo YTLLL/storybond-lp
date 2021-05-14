@@ -62,20 +62,12 @@ page_sections:
   headline2: Impact
   headline3: ''
   content3: ''
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/14/group-13-1.png"
   caption: All Available Blocks
   slug: blocks
-  headline: ''
+  headline: key
 - template: video-content
   block: youtubePlayer
   media:
@@ -90,14 +82,6 @@ page_sections:
   slug: ''
   caption: ''
   headline: About Us
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/05/12/3-04-1-1.png"

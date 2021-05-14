@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: ''
+    link_text: ''
   - link: https://ytlll.github.io/storybond-lp/#key
     link_text: Key Features
   - link: https://ytlll.github.io/storybond-lp/#projectinfo
@@ -82,7 +84,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/05/14/group-12-2.png"
-  slug: About Us
+  slug: us
   caption: ''
   headline: About Us
 - template: 4-column-footer

@@ -12,7 +12,7 @@ page_sections:
     link_text: Project INFO
   - link: https://ytlll.github.io/storybond-lp/#key
     link_text: Key Features
-  - link: us
+  - link: https://ytlll.github.io/storybond-lp/#us
     link_text: About Us
   logo: "/uploads/2021/05/12/3-04-1-1.png"
 - template: hero-banner-w-image

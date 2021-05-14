@@ -41,10 +41,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: ''
+  slug: outcome
+  headline: ''
+  content: Everyone has a story, instead of silence, we wish it can be the bridge
+    to our heart. We decided to build a place to share these stories. <br><br>StoryBond
+    provides a place for you to express yourself in the form of story, and you can
+    better understand others through the story exchange.<br>
   media:
     image: "/uploads/2021/05/14/phone-14.png"
     alt_text: Customize Blocks

@@ -9,6 +9,11 @@ fields:
   default: youtubePlayer
   label: block
   hidden: true
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
 - name: headline
   type: textarea
   default: ''

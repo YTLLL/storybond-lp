@@ -31,7 +31,7 @@ page_sections:
     a deep connection with them.<br><br>How might people and their acquaintances know
     more about each other so that they can form genuine friendships?<br><br> '
   media:
-    image: "/uploads/2021/05/13/phone-2.png"
+    image: "/uploads/2021/05/14/phone-11.png"
     alt_text: uBuild Blocks Mock-Up
   content2: 'Everyone has a story, instead of silence, we wish it can be the bridge
     to our heart. We decided to build a place to share these stories. <br><br>StoryBond

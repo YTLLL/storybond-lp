@@ -77,7 +77,7 @@ page_sections:
 - template: video-content
   block: youtubePlayer
   media:
-    alt_text: Rx8Y0bmhkeQ
+    alt_text: WTvTORH_87U
   headline: "<strong>Demo Video</strong>"
   content: Our video demonstrates more project details of research and development
     by our team members.
